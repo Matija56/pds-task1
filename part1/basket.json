@@ -1,0 +1,13 @@
+{
+    "id":"id0001",
+    "ime":"Matija",
+    "prezime":"Krsticevic",
+    "smer":"ri",
+    "predmeti":["OOP","PDS","MSA"],
+    "prosek":8.3,
+    "kontakt":{
+        "adresa":"Knez Miletina",
+        "mesto":"Beograd",
+        "telefon":38165040444
+    }
+}
